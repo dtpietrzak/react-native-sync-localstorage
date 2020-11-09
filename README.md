@@ -6,7 +6,7 @@ Non-Async Local Storage
 
 ## [Usage]
 
-### 1. Loading stored values at beginnig
+### 1. Load stored values at beginning
     import localStorage from 'react-native-sync-localstorage'
 
     ...
@@ -19,7 +19,7 @@ Non-Async Local Storage
         console.warn(err)
       })
 
-### 2. Use local storage comfortable
+### 2. Use local storage comfortably
 #### 2-1. Setting
     const value = 12345
     localStorage.setItem('key', value)
