@@ -1,7 +1,7 @@
 {
   "name": "react-native-sync-localstorage",
   "version": "0.0.3",
-  "description": "None async local storage",
+  "description": "Non-Async Local Storage",
   "main": "localStorage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
